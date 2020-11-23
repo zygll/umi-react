@@ -41,8 +41,4 @@
   ![](https://github.com/jiechud/umi-react/blob/master/doc/resource/3/local.gif)
 
 
-#### 交流
 
-我建了一个QQ群，大家加进来，可以一起交流。群号 787846148
-
-### TEST
